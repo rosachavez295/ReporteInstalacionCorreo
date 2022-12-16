@@ -1,0 +1,8 @@
+[
+  {
+    "sheetName": "Reporte Instalacion",
+    "queryPath": "./queries/reporte_instalacion_servicio.sql"
+  }
+
+
+]
